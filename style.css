@@ -17,7 +17,7 @@ h2 {
 input[type=url] {
   background-color: white !important;
   border-radius: 4px;
-  width: 10%;
+  width: 40%;
   height: auto;
 }
 
@@ -26,5 +26,7 @@ input[type=submit] {
   cursor: pointer;
   background-color: white !important;
   border-radius: 4px;
-  color: white;
+  color: #363836;
+  width: 40%;
+  height: auto;
 }
