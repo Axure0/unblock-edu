@@ -8,5 +8,12 @@
   align-items: center;
   text-align: center;
   font-family: "Open Sans", sans-serif;
-  font-color: white;
+}
+
+h2 {
+  color: white;
+}
+
+input {
+  background-color: white; 
 }
